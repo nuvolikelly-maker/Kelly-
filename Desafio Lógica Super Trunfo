@@ -1,0 +1,12 @@
+O que é o jogo Super Trunfo?
+É um jogo de cartas onde cada carta tem um conjunto de atributos (como população, área, etc.). 
+O objetivo é tomar todas as cartas dos adversários, escolhendo uma característica da sua carta e comparando com a dos outros jogadores. 
+A carta com o maior valor para a característica escolhida vence e leva as cartas dos outros participantes. 
+Como se aplica na Engenharia de Software?
+Programação: Os alunos desenvolvem o jogo usando linguagens de programação, como C. 
+Estruturas de Dados: É necessário usar estruturas para organizar as informações de cada carta. As structs são usadas para agrupar as informações (cidade, população, área) em uma única unidade, e os arrays são utilizados para armazenar e manipular as cartas. 
+Lógica de Programação: O desafio envolve a implementação da lógica para:
+Registrar os dados de cada carta. 
+Comparar os atributos das cartas para determinar o vencedor. 
+Gerenciar o fluxo do jogo, como a divisão das cartas e a disputa por elas. 
+Temas: O jogo pode ser adaptado para diferentes temas, como cidades, países, personagens de quadrinhos (como Marvel) ou mesmo animais, como gatos e cães. 
