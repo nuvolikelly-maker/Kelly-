@@ -1,0 +1,10 @@
+Como o jogo funciona (base):
+Cartas com atributos: Cada carta do Super Trunfo possui um tema (como países, animais ou times) e um conjunto de características com valores numéricos (ex: população, área, velocidade, etc.). 
+Comparação: Os jogadores escolhem uma característica e a anunciam. O jogador cuja carta tiver o maior valor nessa característica vence a rodada. 
+Objetivo: O objetivo final é conseguir todas as cartas dos oponentes, o que resulta na vitória do jogador que as acumular. 
+Desafios em engenharia de software:
+Criação de estruturas de dados: Definir como as informações das cartas (nome, atributos) serão armazenadas. 
+Lógica de jogo: Desenvolver a função que compara os atributos das cartas para determinar o vencedor de cada rodada. 
+Interface com o usuário: Permitir que o jogador insira os dados das cartas e interaja com o jogo. 
+Gerenciamento de estados: Lidar com a distribuição das cartas, o turno de cada jogador e a condição de vitória. 
+Aplicação de conceitos: Utilizar princípios da programação para criar um jogo completo, como a criação de um gerador de cartas e o programa principal do jogo. 
